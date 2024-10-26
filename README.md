@@ -1,1 +1,1 @@
-This is my portfolio web project for HTML and CSS.
+This is my portfolio web project for HTML, CSS and JavaScript with Lightbox.
